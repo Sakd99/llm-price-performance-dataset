@@ -1,0 +1,19 @@
+rank,name,developer,open_weights,intelligence,input_price_usd_per_1m,output_price_usd_per_1m,blended_price_usd_per_1m,intelligence_per_dollar
+1,DeepSeek V4-Flash,DeepSeek,yes,40.3,0.14,0.28,0.21,191.9
+2,DeepSeek V4-Pro,DeepSeek,yes,44.3,0.435,0.87,0.652,67.9
+3,Qwen3 32B,Alibaba,yes,12.0,0.08,0.28,0.18,66.7
+4,Gemma 3 27B,Google,yes,7.4,0.08,0.16,0.12,61.7
+5,Llama 4 Scout,Meta,yes,10.0,0.1,0.3,0.2,50.0
+6,Phi-4,Microsoft,yes,4.9,0.07,0.14,0.105,46.7
+7,Llama 4 Maverick,Meta,yes,14.3,0.15,0.6,0.375,38.1
+8,Kimi K2.7 Code,Moonshot AI,yes,42.0,0.6,2.5,1.55,27.1
+9,GLM 5.2,Zhipu AI,yes,51.1,1.4,4.4,2.9,17.6
+10,DeepSeek R1,DeepSeek,yes,20.1,0.5,2.15,1.325,15.2
+11,Claude Haiku 4.5,Anthropic,no,37.0,1.0,5.0,3.0,12.3
+12,Qwen3 235B-A22B,Alibaba,yes,13.0,0.45,1.8,1.125,11.6
+13,Gemini 3.5 Flash,Google,no,50.2,1.5,9.0,5.25,9.6
+14,Gemini 3.1 Pro,Google,no,46.5,2.0,12.0,7.0,6.6
+15,Claude Sonnet 4.6,Anthropic,no,47.0,3.0,15.0,9.0,5.2
+16,Mistral Large 3,Mistral AI,yes,15.9,2.0,6.0,4.0,4.0
+17,Claude Opus 4.8,Anthropic,no,55.7,5.0,25.0,15.0,3.7
+18,GPT-5.5,OpenAI,no,54.8,5.0,30.0,17.5,3.1

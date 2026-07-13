@@ -1,0 +1,33 @@
+name,slug,developer,model_type,modality,parameters,context_window,max_output,license,open_weights,release_date,input_price,output_price,api_providers,intelligence
+Claude Fable 5,claude-fable-5,Anthropic,LLM (frontier reasoning),"Text, Vision → Text",Undisclosed,1M,128K,Proprietary,no,2026,10.00,50.00,"Anthropic, AWS",
+Claude Haiku 4.5,claude-haiku-4-5,Anthropic,LLM,"Text, Vision → Text",Undisclosed,200K,64K,Proprietary,no,2025,1.00,5.00,"Anthropic, AWS, Vertex AI, Azure",37
+Claude Opus 4.8,claude-opus-4-8,Anthropic,LLM (reasoning),"Text, Vision → Text",Undisclosed,1M,128K,Proprietary,no,2026,5.00,25.00,"Anthropic, AWS, Vertex AI, Azure",55.7
+Claude Sonnet 4.6,claude-sonnet-4-6,Anthropic,LLM,"Text, Vision → Text",Undisclosed,1M,64K,Proprietary,no,2025,3.00,15.00,"Anthropic, AWS, Vertex AI, Azure",47
+DeepSeek R1,deepseek-r1,DeepSeek,"LLM (MoE, reasoning)",Text → Text,671B total / 37B active (MoE),128K,,MIT (open),yes,2025,0.50,2.15,"DeepSeek, DeepInfra, OpenRouter",20.1
+DeepSeek R1 Distill Llama 70B,deepseek-r1-distill-llama-70b,DeepSeek,"LLM (dense, reasoning)",Text → Text,70B,128K,,MIT (open),yes,2025,0.80,0.80,"DeepInfra, OpenRouter, Ollama",
+DeepSeek V4-Flash,deepseek-v4-flash,DeepSeek,LLM (MoE),Text → Text,284B total / ~13B active (MoE),1M,384K,MIT (open),yes,2026-04,0.14,0.28,"DeepSeek, OpenRouter",40.3
+DeepSeek V4-Pro,deepseek-v4-pro,DeepSeek,LLM (MoE),Text → Text,1.6T total / ~49B active (MoE),1M,384K,MIT (open),yes,2026-04,0.435,0.87,"DeepSeek, OpenRouter",44.3
+Gemini 2.5 Pro,gemini-2-5-pro,Google (Google DeepMind),LLM (frontier reasoning / thinking),"Text, Image, Audio, Video, PDF → Text",Undisclosed,"1M (1,048,576 tokens)","64K (65,536 tokens)",Proprietary,no,"March 2025 (preview); June 17, 2025 (GA)",1.25,10,"Google AI Studio (Gemini API), Vertex AI, OpenRouter",
+Gemini 3.1 Pro,gemini-3-1-pro,Google,LLM (multimodal),"Text, Image, Audio, Video → Text",Undisclosed,1.05M,65K,Proprietary,no,2026,2.00,12.00,"Google AI Studio, Vertex AI",46.5
+Gemini 3.5 Flash,gemini-3-5-flash,Google,LLM (multimodal),"Text, Image, Audio, Video → Text",Undisclosed,1M,65K,Proprietary,no,2026,1.50,9.00,"Google AI Studio, Vertex AI",50.2
+Gemma 3 12B,gemma-3-12b,Google,LLM (multimodal),"Text, Image → Text",12B,128K,,Gemma (open),yes,2025,0.05,0.15,"Google AI Studio, OpenRouter, Ollama",
+Gemma 3 27B,gemma-3-27b,Google,LLM (multimodal),"Text, Image → Text",27B,128K,,Gemma (open),yes,2025,0.08,0.16,"Google AI Studio, OpenRouter, Ollama",7.4
+Gemma 3 4B,gemma-3-4b,Google,LLM (multimodal),"Text, Image → Text",4B,128K,,Gemma (open),yes,2025,0.05,0.1,"Google AI Studio, Ollama",
+GLM 5.2,glm-5-2,Zhipu AI,"LLM (coding/agentic, MoE)",Text → Text,744B total / ~40B active (MoE),1M,131K,MIT (open),yes,2026-06,1.4,4.4,"Zhipu (Z.ai), OpenRouter",51.1
+GPT-5.5,gpt-5-5,OpenAI,LLM (reasoning),"Text, Vision → Text",Undisclosed,1.05M,128K,Proprietary,no,2026,5.00,30.00,"OpenAI, Azure",54.8
+Grok 4,grok-4,xAI,Large language model (reasoning),"Text + image input, text output",Undisclosed,"256,000 tokens",Undisclosed,Proprietary,no,"July 9, 2025",3,15,"xAI API, OpenRouter, Vercel AI Gateway",
+Kimi K2.7 Code,kimi-k2-7-code,Moonshot AI,"LLM (coding, MoE)",Text → Text,1T total / 32B active (MoE),256K,—,Modified MIT (open),yes,2026-06,0.6,2.5,"Moonshot, OpenRouter",42
+Llama 3.1 8B,llama-3-1-8b,Meta,LLM (dense),Text → Text,8B,128K,,Llama 3.1 Community (open),yes,2024,0.02,0.03,"Together, DeepInfra, OpenRouter, Ollama",
+Llama 3.3 70B,llama-3-3-70b,Meta,LLM (dense),Text → Text,70B,128K,,Llama 3.3 Community (open),yes,2024,0.10,0.32,"Together, DeepInfra, OpenRouter, Ollama",
+Llama 4 Maverick,llama-4-maverick,Meta,Multimodal (MoE),"Text, Image → Text",400B total / 17B active (MoE),1M,,Llama 4 Community (EU-restricted),yes,2025,0.15,0.6,"Meta, Together, OpenRouter",14.3
+Llama 4 Scout,llama-4-scout,Meta,Multimodal (MoE),"Text, Image → Text",109B total / 17B active (MoE),10M,,Llama 4 Community (EU-restricted),yes,2025,0.1,0.3,"Meta, Together, OpenRouter",10.0
+Mistral 7B,mistral-7b,Mistral AI,LLM (dense),Text → Text,7B,32K,,Apache 2.0 (open),yes,2023,0.02,0.03,"Mistral, DeepInfra, OpenRouter, Ollama",
+Mistral Large 3,mistral-large-3,Mistral AI,LLM (MoE),Text → Text,675B total / 41B active (MoE),256K,,Apache 2.0 (open),yes,2025,2.00,6.00,"Mistral, OpenRouter",15.9
+Mistral NeMo 12B,mistral-nemo-12b,Mistral AI,LLM (dense),Text → Text,12B,128K,,Apache 2.0 (open),yes,2024,0.02,0.04,"Mistral, OpenRouter, Ollama",
+NVIDIA Nemotron 3 Nano Omni,nvidia-nemotron-3-nano-omni,NVIDIA,Multimodal (omni),"Text, Image, Audio, Video → Text",30B total / ~3B active (MoE),256K,—,NVIDIA Open Model Agreement,yes,2026,,,"Hugging Face, OpenRouter, NVIDIA NIM",
+Phi-4,phi-4,Microsoft,LLM (dense),Text → Text,14B,16K,,MIT (open),yes,2025,0.07,0.14,"Azure, OpenRouter, Ollama",4.9
+Qwen3 14B,qwen3-14b,Alibaba,LLM (dense),Text → Text,14B,128K,,Apache 2.0 (open),yes,2025,0.12,0.24,"Alibaba, OpenRouter, Ollama",
+Qwen3 235B-A22B,qwen3-235b-a22b,Alibaba,LLM (MoE),Text → Text,235B total / 22B active (MoE),128K,,Apache 2.0 (open),yes,2025,0.45,1.8,"Alibaba, OpenRouter",13
+Qwen3 30B-A3B,qwen3-30b-a3b,Alibaba,LLM (MoE),Text → Text,30B total / 3B active (MoE),128K,,Apache 2.0 (open),yes,2025,0.12,0.5,"Alibaba, OpenRouter, Ollama",
+Qwen3 32B,qwen3-32b,Alibaba,LLM (dense),Text → Text,32B,128K,,Apache 2.0 (open),yes,2025,0.08,0.28,"Alibaba, OpenRouter, Ollama",12
+Qwen3 8B,qwen3-8b,Alibaba,LLM (dense),Text → Text,8B,128K,,Apache 2.0 (open),yes,2025,0.04,0.14,"Alibaba, OpenRouter, Ollama",
