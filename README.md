@@ -10,7 +10,7 @@ Maintained by **[Convly](https://convly.ai)** and updated as new models ship.
 
 Choosing an AI model means juggling scattered specs, prices, and benchmarks across a dozen tabs. This puts the essentials in one machine-readable place.
 
-A headline finding from this data: **the cost per unit of intelligence spans roughly 100×+ across models.** Open-weight models like **DeepSeek V4-Flash** and **GLM 5.2** deliver a large fraction of frontier intelligence at a tiny fraction of the price. Full write-up and methodology: **https://convly.ai/ai-price-performance-index-2026/**
+A headline finding from this data: **intelligence-per-dollar varies ~62× across the scored models.** DeepSeek V4-Flash delivers about **192 intelligence-points per dollar** versus roughly **3** for the priciest frontier tier (GPT-5.5) — see [`price-performance.csv`](price-performance.csv). Open-weight models like DeepSeek V4-Flash and GLM 5.2 give a large fraction of frontier intelligence at a fraction of the price. Our broader cost-per-intelligence study (more models, cost weighted differently) puts the full spread at ~114×: **https://convly.ai/ai-price-performance-index-2026/**
 
 ## 📁 Files
 
