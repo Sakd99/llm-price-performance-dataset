@@ -17,6 +17,7 @@ GLM 5.2,glm-5-2,Zhipu AI,"LLM (coding/agentic, MoE)",Text → Text,744B total / 
 GPT-5.5,gpt-5-5,OpenAI,LLM (reasoning),"Text, Vision → Text",Undisclosed,1.05M,128K,Proprietary,no,2026,5.00,30.00,"OpenAI, Azure",54.8
 Grok 4,grok-4,xAI,Large language model (reasoning),"Text + image input, text output",Undisclosed,"256,000 tokens",Undisclosed,Proprietary,no,"July 9, 2025",3,15,"xAI API, OpenRouter, Vercel AI Gateway",
 Kimi K2.7 Code,kimi-k2-7-code,Moonshot AI,"LLM (coding, MoE)",Text → Text,1T total / 32B active (MoE),256K,—,Modified MIT (open),yes,2026-06,0.6,2.5,"Moonshot, OpenRouter",42
+Kimi K3,kimi-k3,Moonshot AI,"LLM (MoE, reasoning, multimodal)","Text, Vision → Text",2.8T total / 16 of 896 experts active (MoE),1M,,Open weights (due 2026-07-27),yes,2026-07,3.00,15.00,"Moonshot (Kimi), OpenRouter",57
 Llama 3.1 8B,llama-3-1-8b,Meta,LLM (dense),Text → Text,8B,128K,,Llama 3.1 Community (open),yes,2024,0.02,0.03,"Together, DeepInfra, OpenRouter, Ollama",
 Llama 3.3 70B,llama-3-3-70b,Meta,LLM (dense),Text → Text,70B,128K,,Llama 3.3 Community (open),yes,2024,0.10,0.32,"Together, DeepInfra, OpenRouter, Ollama",
 Llama 4 Maverick,llama-4-maverick,Meta,Multimodal (MoE),"Text, Image → Text",400B total / 17B active (MoE),1M,,Llama 4 Community (EU-restricted),yes,2025,0.15,0.6,"Meta, Together, OpenRouter",14.3

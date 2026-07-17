@@ -306,6 +306,23 @@
     "intelligence": "42"
   },
   {
+    "name": "Kimi K3",
+    "slug": "kimi-k3",
+    "developer": "Moonshot AI",
+    "model_type": "LLM (MoE, reasoning, multimodal)",
+    "modality": "Text, Vision → Text",
+    "parameters": "2.8T total / 16 of 896 experts active (MoE)",
+    "context_window": "1M",
+    "max_output": "",
+    "license": "Open weights (due 2026-07-27)",
+    "open_weights": "yes",
+    "release_date": "2026-07",
+    "input_price": "3.00",
+    "output_price": "15.00",
+    "api_providers": "Moonshot (Kimi), OpenRouter",
+    "intelligence": "57"
+  },
+  {
     "name": "Llama 3.1 8B",
     "slug": "llama-3-1-8b",
     "developer": "Meta",

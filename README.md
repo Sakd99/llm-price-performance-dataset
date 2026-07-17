@@ -12,6 +12,8 @@ Choosing an AI model means juggling scattered specs, prices, and benchmarks acro
 
 A headline finding from this data: **intelligence-per-dollar varies ~62× across the scored models.** DeepSeek V4-Flash delivers about **192 intelligence-points per dollar** versus roughly **3** for the priciest frontier tier (GPT-5.5) — see [`price-performance.csv`](price-performance.csv). Open-weight models like DeepSeek V4-Flash and GLM 5.2 give a large fraction of frontier intelligence at a fraction of the price. Our broader cost-per-intelligence study (more models, cost weighted differently) puts the full spread at ~114×: **https://convly.ai/ai-price-performance-index-2026/**
 
+**Update — July 2026:** the highest-scoring model in this dataset is now itself **open-weight**. Moonshot's **Kimi K3** (2.8T parameters, 16 of 896 experts active) scores **57**, edging past Claude Opus 4.8 (55.7) — while costing $3/$15 per 1M tokens against Opus's $5/$25, i.e. **~1.7× more intelligence per dollar**. It is not the value leader, though: GLM 5.2 still returns ~2.8× more capability per dollar than K3, and DeepSeek V4-Flash ~30× more. Background: [Kimi K3 explained](https://convly.ai/kimi-k3-explained-2026/).
+
 ## 📁 Files
 
 | file | what it is |

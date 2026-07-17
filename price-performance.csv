@@ -13,7 +13,8 @@ rank,name,developer,open_weights,intelligence,input_price_usd_per_1m,output_pric
 12,Qwen3 235B-A22B,Alibaba,yes,13.0,0.45,1.8,1.125,11.6
 13,Gemini 3.5 Flash,Google,no,50.2,1.5,9.0,5.25,9.6
 14,Gemini 3.1 Pro,Google,no,46.5,2.0,12.0,7.0,6.6
-15,Claude Sonnet 4.6,Anthropic,no,47.0,3.0,15.0,9.0,5.2
-16,Mistral Large 3,Mistral AI,yes,15.9,2.0,6.0,4.0,4.0
-17,Claude Opus 4.8,Anthropic,no,55.7,5.0,25.0,15.0,3.7
-18,GPT-5.5,OpenAI,no,54.8,5.0,30.0,17.5,3.1
+15,Kimi K3,Moonshot AI,yes,57.0,3.0,15.0,9.0,6.3
+16,Claude Sonnet 4.6,Anthropic,no,47.0,3.0,15.0,9.0,5.2
+17,Mistral Large 3,Mistral AI,yes,15.9,2.0,6.0,4.0,4.0
+18,Claude Opus 4.8,Anthropic,no,55.7,5.0,25.0,15.0,3.7
+19,GPT-5.5,OpenAI,no,54.8,5.0,30.0,17.5,3.1
